@@ -1,5 +1,5 @@
 - Hi, I’m Warren @Novascone
-- I studied computer science at Utah State University
+- I study physics at Utah State University
 
 
 <!---
