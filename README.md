@@ -1,4 +1,4 @@
-- Hi, I’m Warren @Novascone
+- Hi, I’m Warren @novascone
 - I study physics at Utah State University
 
 
